@@ -1,4 +1,6 @@
 # You don't own anything 
+Mirror: https://git.yhw.tw/howard/you-dont-own-anything
+
 你什麼都不是你的所有物，即便會讓你認為，但你不曾擁有，所有「控制權」都不是你的。
 
 ## 這是什麼？
